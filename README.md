@@ -1,16 +1,18 @@
-## Hi there 👋
+## Gabriel Teles
+#### 22 anos
+#### Brasil 🇧🇷
 
-<!--
-**gabrieltlss/gabrieltlss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação focado em desenvolvimento web.
 
-Here are some ideas to get you started:
+* Conhecimentos:
+  * HTML
+  * CSS / W3CSS
+  * JavaScript / TypeScript
+  * Node.JS
+  * MySQL
+  * React
+  * NextJS (em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aberto para propostas de trabalho.**
+
+Contato através de meu [site pessoal](https://gabrieltlss.com.br/)
