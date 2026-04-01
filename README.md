@@ -1,6 +1,6 @@
 ## Gabriel Teles
+#### Brasil
 #### 22 anos
-#### Brasil 🇧🇷
 
 Estudante de programação focado em desenvolvimento web.
 
@@ -15,4 +15,4 @@ Estudante de programação focado em desenvolvimento web.
 
 **Aberto para propostas de trabalho.**
 
-Contato através de meu [site pessoal](https://gabrieltlss.com.br/)
+Contato através de meu [site pessoal](https://gabrieltlss.com.br/).
