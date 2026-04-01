@@ -21,11 +21,10 @@ Estudante de programação focado em desenvolvimento web.
 |📦 [Promos da Flávia](https://promos.flaviatlss.com.br/)                         |Landing Page dinâmica feito em JS, Node.JS, MySQL e EJS (web tradicional - monolítica)|
 |✉️ [API para contato](https://github.com/gabrieltlss/gabrieltlss-contact-api.git)|Projeto simples para envio de e-mails usando o SendGrid (usado em meu site pessoal)   |
 
-**Alguns dos projetos acima levam para a página web de cada projeto, que foram hospededos em uma VPS na Hostinger**
+**Alguns dos projetos acima levam para a página web de cada projeto, que foram hospededos em uma VPS na Hostinger.**
+**Para visualizar o repositório de cada projeto, visite meus repositórios públicos ou a aba de projetos fixados.**
 
-**Para visualizar o repositório de cada projeto, visite meus repositórios públicos ou a aba de projetos fixados**
-
-
-**Aberto para propostas de trabalho.**
+### Contato
+Aberto para propostas de trabalho.
 
 Contato através de meu [site pessoal](https://gabrieltlss.com.br/).
