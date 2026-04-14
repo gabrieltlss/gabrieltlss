@@ -4,7 +4,7 @@ Estudante de programação focado em desenvolvimento web.
 
 ### Conhecimentos:
 * HTML
-* CSS / W3CSS
+* CSS
 * JavaScript / TypeScript
 * Node.JS
 * MySQL
